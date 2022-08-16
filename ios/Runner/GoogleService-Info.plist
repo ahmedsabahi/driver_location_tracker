@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>6123735930-n0is6nufs4n4hob7pigvs8v4u8hdror6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.6123735930-n0is6nufs4n4hob7pigvs8v4u8hdror6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyALWImsIajj2D-Ah7a9vJKzJSO4SWgeC0g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>6123735930</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.test.driverLocationTracker</string>
+	<key>PROJECT_ID</key>
+	<string>driver-location-tracker</string>
+	<key>STORAGE_BUCKET</key>
+	<string>driver-location-tracker.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:6123735930:ios:95681969c4da9dc24d64c3</string>
+</dict>
+</plist>
